@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: remot_host
   gather_facts: true
   become: true
   roles:
